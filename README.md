@@ -1,6 +1,6 @@
 [ottoman@archlinux ~]$ neofetch
 
-                    -@                    paradox@archlinux
+                    -@                    ottoman@archlinux
                    .##@                   -----------------
                   .####@                  Username: Ottoman
                   @#####@                 Alias: Ottoman, Cengizhan
