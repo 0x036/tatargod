@@ -1,15 +1,18 @@
-                -@                    ottoman@archlinux
-               .##@                   -----------------
-              .####@                  Username: Ottoman
-              @#####@                 Alias: Ottoman, Cengizhan
-            . *######@                Discord: https://discord.gg/MRFVQkHq
-           .##@o@#####@               Website: https://ottoman.net/
-          /############@            
-         /##############@             ottoman@archlinux
-        @######@**%######@            -----------------
-       @######`     %#####o           Frontend: 7/10
-      @######@       ######%          Backend: 6/1O
-    -@#######h       ######@.`        Python: 9/10
-   /#####h**``       `**%@####@       CSharp: 10/10
-  @H@*`                    `*%#@    
- *`                            `*     Infos: 19yo Freelance and self-taught developer!
+[cengizhanof@archlinux ~]$ neofetch
+
+                    -@                    cengizhanof@archlinux
+                   .##@                   -----------------
+                  .####@                  Username: Ottoman
+                  @#####@                 Alias: Cengizhan, Ottoman
+                . *######@                
+               .##@o@#####@               Website: https://cengizhanof.xyz/
+              /############@            
+             /##############@             cengizhanof@archlinux
+            @######@**%######@            -----------------
+           @######`     %#####o           Frontend: 7/10
+          @######@       ######%          Backend: 6/1O
+        -@#######h       ######@.`        Python: 8/10
+       /#####h**``       `**%@####@       CSharp: 9/10
+      @H@*`                    `*%#@      Javascript: 9/10
+     *`                            `*     
+                                          Infos: 19yo Freelance and self-taught developer, founder of DVRK !
