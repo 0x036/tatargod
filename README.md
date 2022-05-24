@@ -16,3 +16,9 @@
       @H@*`                    `*%#@      Javascript: 9/10
      *`                            `*     
                                           Infos: 19yo Freelance and self-taught developer, founder of DVRK !
+
+
+
+
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=cengizhanof&count_private=true&show_icons=true&theme=radical)
