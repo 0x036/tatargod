@@ -1,3 +1,12 @@
+<p><img align="right" src="https://i.imgur.com/ADxQoBB.gif" width="500" height="320" /></p>
+
+
+
+
+
+
+
+
 [cengizhanof@archlinux ~]$ neofetch
 
                     -@                    cengizhanof@archlinux
