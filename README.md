@@ -18,8 +18,7 @@
                                           Infos: 19yo Freelance and self-taught developer, founder of DVRK !
 
 
-
-
+<img src= "https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=fff">
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=cengizhanof&count_private=true&show_icons=true&theme=radical)
 
